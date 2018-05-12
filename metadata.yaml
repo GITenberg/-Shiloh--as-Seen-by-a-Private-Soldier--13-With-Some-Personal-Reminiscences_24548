@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26573'
     url: http://www.gutenberg.org/2009/agents/26573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24548#-Shiloh--as-Seen-by-a-Private-Soldier--13-With-Some-Personal-Reminiscences
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-02-08'
 gutenberg_type: Text
